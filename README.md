@@ -13,6 +13,3 @@ OVERVIEW - This is a simple camera project built using HTML,CSS.
 .practice.html- main webpage
 .styling.css- styling
 .image- camera image
-
-## How to run
-Download or clone tbe project and open'index.html'.
