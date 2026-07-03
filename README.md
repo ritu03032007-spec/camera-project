@@ -10,8 +10,8 @@ OVERVIEW - This is a simple camera project built using HTML,CSS.
 -Responsive design 
 
 ##Project Structure
-.index.html- main webpage
-.style.css- styling
+.practice.html- main webpage
+.styling.css- styling
 .image- camera image
 
 ## How to run
